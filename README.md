@@ -1,2 +1,2 @@
 # ERP-BI-svetovanje
-ERP Support, BI ans AI, CRM consulting
+ERP Support, BI , SQL-Server, CRM consulting, BPM
